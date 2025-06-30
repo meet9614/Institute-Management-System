@@ -33,14 +33,6 @@ course: Stores course information (ID, name, faculty ID)
 
 grade: Stores student grades (student ID, grade)
 
-Installation
-Clone the repository:
-
-bash
-git clone https://github.com/yourusername/student-management-system.git
-cd student-management-system
-Install dependencies:
-
 bash
 pip install pymysql
 Set up MySQL database:
